@@ -1,4 +1,4 @@
-(Screenshot 2026-05-09 144532.png)
+<img src="Screenshot 2026-05-09 144532.png"> 
 
 # 📊 Influencer Giveaway Performance Dashboard
 **Marketing Analytics Project**
