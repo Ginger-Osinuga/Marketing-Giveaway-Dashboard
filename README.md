@@ -18,3 +18,4 @@ To analyze the ROI of social media giveaway campaigns and identify which influen
 ### 🛠️ Tools Used
 *   **Power BI Desktop** (Data Visualization)
 *   **Kaggle Dataset:** Influencer Marketing ROI
+*   https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset
