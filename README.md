@@ -1,5 +1,4 @@
 # 📊 Influencer Marketing Dashboard
-**Marketing Analytics Project**
 
 ### 🎯 Objective
 To analyze the ROI of social media giveaway campaigns and identify which influencer categories drive the highest product sales. This dashboard provides a high-level view of awareness versus conversion.
