@@ -1,4 +1,4 @@
-# 📊 Influencer Giveaway Performance Dashboard
+# 📊 Influencer Marketing Dashboard
 **Marketing Analytics Project**
 
 ### 🎯 Objective
